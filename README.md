@@ -39,5 +39,5 @@ SVM-Linear-Classifier.exe
 ### 4. Render the Visualization
 Once the C++ program finishes writing the coordinates and weights to the text files, run the Python script to display the classification results:
 ```bash
-python Visualisation.py\
+python Visualisation.py
 ```
